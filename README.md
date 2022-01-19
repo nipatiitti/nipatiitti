@@ -10,4 +10,4 @@
 - 🧠 Basics of AI with tensorflow
 - ⌨️ Fluent JS/TS, C/C++, python
 - 🔮 Devops with AWS-CDK and Docker 
-- 🌱 Constantly learnign and growing
+- 🌱 Constantly learning and growing
