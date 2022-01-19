@@ -6,8 +6,8 @@
 
 - 🎓 Studying engineering in [Tampere University](https://www.tuni.fi/en)
 - 🏭 I'm Fullstack leaning to the front
-- ⚙️ Dabbled in embedded and SoC
+- ⚙️ Majorin in embedded and SoC in uni
 - 🧠 Basics of AI with tensorflow
-- ⌨️ Fluent js/ts, c/c++, python
+- ⌨️ Fluent JS/TS, C/C++, python
 - 🔮 Devops with AWS-CDK and Docker 
 - 🌱 Constantly learnign and growing
