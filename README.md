@@ -5,9 +5,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nipatiitti&count_private=true&show_icons=true&hide_title=true" />
 
 - 🎓 Studying engineering in [Tampere University](https://www.tuni.fi/en)
-- 🏭 I'm Fullstack leaning to the front
-- ⚙️ Majorin in embedded and SoC in uni
-- 🧠 Basics of AI with tensorflow
-- ⌨️ Fluent JS/TS, C/C++, python
-- 🔮 Devops with AWS-CDK and Docker 
+- ⚙️ Major in embedded and SoC
+- 🏭 I identify as a Full Stack
+- ⌨️ Fluent in TypeScript
+- 🔮 Devops with IaC, Kubernetes and Docker
+- 🧠 AI, Blockchain, IoT, <insert buzz words>
 - 🌱 Constantly learning and growing
