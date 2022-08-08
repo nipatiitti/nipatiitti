@@ -9,5 +9,4 @@
 - 🏭 I identify as a Full Stack
 - ⌨️ Fluent in TypeScript
 - 🔮 Devops with IaC, Kubernetes and Docker
-- 🧠 AI, Blockchain, IoT, <insert buzz words>
 - 🌱 Constantly learning and growing
