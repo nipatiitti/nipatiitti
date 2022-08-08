@@ -2,7 +2,7 @@
 
 [https://nipatiitti.com](https://nipatiitti.com/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nipatiitti&count_private=true&show_icons=true&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nipatiitti&count_private=true&show_icons=true&hide_title=true&theme=tokyonight&include_all_commits=true" />
 
 - 🎓 Studying engineering in [Tampere University](https://www.tuni.fi/en)
 - ⚙️ Major in embedded and SoC
